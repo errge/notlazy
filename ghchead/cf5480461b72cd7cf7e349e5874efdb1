@@ -1,0 +1,2 @@
+/home/klerrge/ghc/inplace/lib/bin/ghc-stage1 -B/home/klerrge/ghc/inplace/lib --numeric-version +RTS -t/tmp/ghchead/cf5480461b72cd7cf7e349e5874efdb1 
+<<ghc: 62120 bytes, 1 GCs, 42632/42632 avg/max bytes residency (1 samples), 5M in use, 0.00 INIT (0.00 elapsed), 0.00 MUT (0.00 elapsed), 0.00 GC (0.00 elapsed) :ghc>>

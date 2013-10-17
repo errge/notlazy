@@ -1,0 +1,2 @@
+/home/klerrge/ghc/inplace/lib/bin/ghc-stage1 -B/home/klerrge/ghc/inplace/lib --supported-languages +RTS -t/tmp/nofulllazy/47ab532ca1f20c5cbb9d057f6e2cee35 
+<<ghc: 316500 bytes, 1 GCs, 42632/42632 avg/max bytes residency (1 samples), 5M in use, 0.00 INIT (0.00 elapsed), 0.00 MUT (0.00 elapsed), 0.00 GC (0.00 elapsed) :ghc>>

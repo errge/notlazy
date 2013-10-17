@@ -1,0 +1,2 @@
+/home/klerrge/ghc/inplace/lib/bin/ghc-stage1 -B/home/klerrge/ghc/inplace/lib --print-libdir +RTS -t/tmp/nofulllazy/4e878d1daa34f83abeba1bfb2374733c 
+<<ghc: 3567508 bytes, 2 GCs, 73890/86404 avg/max bytes residency (2 samples), 5M in use, 0.00 INIT (0.00 elapsed), 0.01 MUT (0.01 elapsed), 0.01 GC (0.01 elapsed) :ghc>>

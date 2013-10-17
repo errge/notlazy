@@ -1,0 +1,2 @@
+/home/klerrge/ghc/inplace/lib/bin/ghc-stage1 -B/home/klerrge/ghc/inplace/lib --print-libdir -optc-DTHREADED_RTS -DGHCI_TABLES_NEXT_TO_CODE -DSTAGE=2 +RTS -t/tmp/ghchead/39c61d1308812c4f6313c67fb21f4487 
+<<ghc: 3517896 bytes, 2 GCs, 73974/86596 avg/max bytes residency (2 samples), 5M in use, 0.00 INIT (0.00 elapsed), 0.01 MUT (0.01 elapsed), 0.01 GC (0.01 elapsed) :ghc>>
